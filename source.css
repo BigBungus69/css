@@ -1,6 +1,6 @@
 :root {
   --app-bg: url(https://imgur.com/fbKEtZh.png);
-  --app-blur: 7px;
+  --app-blur: 20px;
   --app-margin: 20px;
   --app-radius: 20px;
   --app-accent: #1bd58c;
